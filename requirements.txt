@@ -1,0 +1,11 @@
+langchain
+langchain-community
+faiss-cpu
+transformers
+fastapi
+uvicorn
+weaviate-client>=3.26.7,<4.0.0
+langchain 
+langchain-community 
+pdfminer.six 
+sentence-transformers
